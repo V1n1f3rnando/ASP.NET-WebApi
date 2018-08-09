@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Entidades\bin\Debug\Projeto.Entidades.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Entidades\bin\Debug\Projeto.Entidades.pdb
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Entidades\obj\Debug\Projeto.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Entidades\obj\Debug\Projeto.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Entidades\obj\Debug\Projeto.Entidades.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Entidades\obj\Debug\Projeto.Entidades.pdb

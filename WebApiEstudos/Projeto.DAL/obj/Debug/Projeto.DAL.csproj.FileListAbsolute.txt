@@ -1,0 +1,9 @@
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.DAL\obj\Debug\Projeto.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.DAL\obj\Debug\Projeto.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.DAL\bin\Debug\Projeto.DAL.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.DAL\bin\Debug\Projeto.DAL.pdb
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.DAL\bin\Debug\Projeto.Entidades.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.DAL\bin\Debug\Projeto.Entidades.pdb
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.DAL\obj\Debug\Projeto.DAL.csproj.CopyComplete
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.DAL\obj\Debug\Projeto.DAL.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.DAL\obj\Debug\Projeto.DAL.pdb

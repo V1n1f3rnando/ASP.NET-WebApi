@@ -67,3 +67,10 @@ C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Servicos
 C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Servicos\obj\Debug\Projeto.Servicos.csproj.CopyComplete
 C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Servicos\obj\Debug\Projeto.Servicos.dll
 C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Servicos\obj\Debug\Projeto.Servicos.pdb
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Servicos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Servicos\bin\Swashbuckle.Core.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Servicos\bin\WebActivatorEx.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Servicos\bin\Projeto.DAL.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Servicos\bin\Projeto.Entidades.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Servicos\bin\Projeto.DAL.pdb
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\WebApiEstudos\Projeto.Servicos\bin\Projeto.Entidades.pdb

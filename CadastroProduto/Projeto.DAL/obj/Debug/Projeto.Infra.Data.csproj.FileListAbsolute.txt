@@ -1,0 +1,6 @@
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.DAL\bin\Debug\Projeto.DAL.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.DAL\bin\Debug\Projeto.DAL.pdb
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.DAL\obj\Debug\Projeto.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.DAL\obj\Debug\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.DAL\obj\Debug\Projeto.DAL.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.DAL\obj\Debug\Projeto.DAL.pdb

@@ -85,6 +85,75 @@ namespace Projeto.Servicos.Controllers
             }
         }
 
+        [HttpGet]
+        [Route("consultar")] //URL:/api/cliente/consultar
+        public HttpResponseMessage Consultar()
+        {
+            try
+            {
+                //lista da model de clienteconsulta
+                List<ClienteConsultaViewModel> lista = new List<ClienteConsultaViewModel>();
+
+                ClienteRepositorio rp = new ClienteRepositorio();
+
+                
+
+                foreach (Cliente c in rp.Buscar())
+                {
+                    ClienteConsultaViewModel model = new ClienteConsultaViewModel();
+
+                    model.IdCliente = c.IdCliente;
+                    model.Nome = c.Nome;
+                    model.Email = c.Email;
+                    model.DataCadastro = c.DataCadastro;
+
+                    lista.Add(model);
+                }
+
+
+                return Request.CreateResponse(HttpStatusCode.OK, lista);
+            }
+            catch (Exception ex)
+            {
+
+                return Request.CreateResponse(HttpStatusCode.InternalServerError, ex.Message);
+            }
+        }
+
+        [HttpGet]
+        [Route("consultaporid")] //URL:/api/cliente/consultaporid
+        public HttpResponseMessage ConsultarPorId(int id)
+        {
+            try
+            {
+                ClienteRepositorio rp = new ClienteRepositorio();
+                Cliente c = rp.BuscarPorId(id);
+
+                if (c != null)
+                {
+                    ClienteConsultaViewModel model = new ClienteConsultaViewModel();
+
+                    model.IdCliente = c.IdCliente;
+                    model.Nome = c.Nome;
+                    model.Email = c.Email;
+                    model.DataCadastro = c.DataCadastro;
+
+                    return Request.CreateResponse(HttpStatusCode.OK, model);
+                }
+                else
+                {
+                    return Request.CreateResponse(HttpStatusCode.OK, " Cliente não encontrado !");
+                }
+
+                
+            }
+            catch (Exception ex)
+            {
+
+                return Request.CreateResponse(HttpStatusCode.InternalServerError, ex.Message);
+            }
+        }
+
 
     }
 }

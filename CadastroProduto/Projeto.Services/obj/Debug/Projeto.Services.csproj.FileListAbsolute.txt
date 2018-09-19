@@ -67,3 +67,7 @@ C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.Servic
 C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.Services\obj\Debug\Projeto.Services.csproj.CopyComplete
 C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.Services\obj\Debug\Projeto.Services.dll
 C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.Services\obj\Debug\Projeto.Services.pdb
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.Services\bin\EntityFramework.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.Services\bin\EntityFramework.xml
+C:\Users\Fernando\Documents\GitHub\ASP.NET-WebApi\CadastroProduto\Projeto.Services\bin\EntityFramework.SqlServer.xml
